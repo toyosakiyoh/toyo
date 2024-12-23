@@ -7,8 +7,8 @@ Created on Thu Dec 19 20:15:54 2024
 """
 
 import streamlit as st
-st.title("Multiple OSS Access Log Analyzer")
-
+st.title("yotoyosaki")
+st.map()
 
 input_num = st.number_input('Input a number', value=0)
 
